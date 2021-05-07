@@ -42,4 +42,4 @@ nbproject/*
 # Sass preprocessor
 .sass-cache/
 
-/.github/*
+/.github/workflows/*
