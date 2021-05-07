@@ -41,5 +41,3 @@ nbproject/*
 .vscode
 # Sass preprocessor
 .sass-cache/
-
-/.github/workflows/*
